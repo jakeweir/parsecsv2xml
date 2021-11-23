@@ -25,7 +25,7 @@ public class parse_csv {
 	/**
 	 * 	parse .csv and export XML file
 	 * 
-	 * @author jaw00168
+	 * @author Jake Weir
 	 * @version 13/04/2021
 	 *
 	 */
