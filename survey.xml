@@ -1,0 +1,3667 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<survey>
+    <response id="1">
+        <month>June</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>25</level>
+        <pokemon>1000</pokemon>
+        <medal>202</medal>
+    </response>
+    <response id="2">
+        <month>June</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>1000</pokemon>
+        <medal>944</medal>
+    </response>
+    <response id="3">
+        <month>June</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>29</level>
+        <pokemon>2000</pokemon>
+        <medal>487</medal>
+    </response>
+    <response id="4">
+        <month>June</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>29</level>
+        <pokemon>2000</pokemon>
+        <medal>324</medal>
+    </response>
+    <response id="5">
+        <month>June</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>28</level>
+        <pokemon>2000</pokemon>
+        <medal>350</medal>
+    </response>
+    <response id="6">
+        <month>June</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>32</level>
+        <pokemon>10000</pokemon>
+        <medal>888</medal>
+    </response>
+    <response id="7">
+        <month>June</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>33</level>
+        <pokemon>20000</pokemon>
+        <medal>951</medal>
+    </response>
+    <response id="8">
+        <month>June</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>1000</pokemon>
+        <medal>1935</medal>
+    </response>
+    <response id="9">
+        <month>June</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>2000</pokemon>
+        <medal>708</medal>
+    </response>
+    <response id="10">
+        <month>June</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>2000</pokemon>
+        <medal>907</medal>
+    </response>
+    <response id="11">
+        <month>June</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>3000</pokemon>
+        <medal>767</medal>
+    </response>
+    <response id="12">
+        <month>June</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>33</level>
+        <pokemon>1000</pokemon>
+        <medal>1060</medal>
+    </response>
+    <response id="13">
+        <month>June</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>3000</pokemon>
+        <medal>915</medal>
+    </response>
+    <response id="14">
+        <month>June</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>25</level>
+        <pokemon>3000</pokemon>
+        <medal>290</medal>
+    </response>
+    <response id="15">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>33</level>
+        <pokemon>5000</pokemon>
+        <medal>782</medal>
+    </response>
+    <response id="16">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>30</level>
+        <pokemon>2000</pokemon>
+        <medal>240</medal>
+    </response>
+    <response id="17">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>37</level>
+        <pokemon>2000</pokemon>
+        <medal>1502</medal>
+    </response>
+    <response id="18">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>39</level>
+        <pokemon>5000</pokemon>
+        <medal>2058</medal>
+    </response>
+    <response id="19">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>34</level>
+        <pokemon>2000</pokemon>
+        <medal>1181</medal>
+    </response>
+    <response id="20">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>20</level>
+        <pokemon>3000</pokemon>
+        <medal>72</medal>
+    </response>
+    <response id="21">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>31</level>
+        <pokemon>5000</pokemon>
+        <medal>982</medal>
+    </response>
+    <response id="22">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>34</level>
+        <pokemon>3000</pokemon>
+        <medal>1010</medal>
+    </response>
+    <response id="23">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>37</level>
+        <pokemon>5000</pokemon>
+        <medal>5760</medal>
+    </response>
+    <response id="24">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>24</level>
+        <pokemon>3000</pokemon>
+        <medal>121</medal>
+    </response>
+    <response id="25">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>22</level>
+        <pokemon>2000</pokemon>
+        <medal>76</medal>
+    </response>
+    <response id="26">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>25</level>
+        <pokemon>10000</pokemon>
+        <medal>212</medal>
+    </response>
+    <response id="27">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>26</level>
+        <pokemon>2000</pokemon>
+        <medal>208</medal>
+    </response>
+    <response id="28">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>27</level>
+        <pokemon>5000</pokemon>
+        <medal>700</medal>
+    </response>
+    <response id="29">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>27</level>
+        <pokemon>2000</pokemon>
+        <medal>266</medal>
+    </response>
+    <response id="30">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>30</level>
+        <pokemon>2000</pokemon>
+        <medal>643</medal>
+    </response>
+    <response id="31">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>26</level>
+        <pokemon>3000</pokemon>
+        <medal>355</medal>
+    </response>
+    <response id="32">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>5000</pokemon>
+        <medal>530</medal>
+    </response>
+    <response id="33">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>27</level>
+        <pokemon>5000</pokemon>
+        <medal>392</medal>
+    </response>
+    <response id="34">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>27</level>
+        <pokemon>3000</pokemon>
+        <medal>550</medal>
+    </response>
+    <response id="35">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>29</level>
+        <pokemon>2000</pokemon>
+        <medal>232</medal>
+    </response>
+    <response id="36">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>29</level>
+        <pokemon>3000</pokemon>
+        <medal>859</medal>
+    </response>
+    <response id="37">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>3000</pokemon>
+        <medal>600</medal>
+    </response>
+    <response id="38">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>3000</pokemon>
+        <medal>358</medal>
+    </response>
+    <response id="39">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>26</level>
+        <pokemon>3000</pokemon>
+        <medal>205</medal>
+    </response>
+    <response id="40">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>29</level>
+        <pokemon>5000</pokemon>
+        <medal>710</medal>
+    </response>
+    <response id="41">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>29</level>
+        <pokemon>5000</pokemon>
+        <medal>415</medal>
+    </response>
+    <response id="42">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>30</level>
+        <pokemon>5000</pokemon>
+        <medal>1122</medal>
+    </response>
+    <response id="43">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>29</level>
+        <pokemon>10000</pokemon>
+        <medal>706</medal>
+    </response>
+    <response id="44">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>35</level>
+        <pokemon>5000</pokemon>
+        <medal>1263</medal>
+    </response>
+    <response id="45">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>2000</pokemon>
+        <medal>437</medal>
+    </response>
+    <response id="46">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>30</level>
+        <pokemon>3000</pokemon>
+        <medal>452</medal>
+    </response>
+    <response id="47">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>28</level>
+        <pokemon>5000</pokemon>
+        <medal>5000</medal>
+    </response>
+    <response id="48">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>29</level>
+        <pokemon>3000</pokemon>
+        <medal>387</medal>
+    </response>
+    <response id="49">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>5000</pokemon>
+        <medal>951</medal>
+    </response>
+    <response id="50">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>30</level>
+        <pokemon>5000</pokemon>
+        <medal>388</medal>
+    </response>
+    <response id="51">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>30</level>
+        <pokemon>3000</pokemon>
+        <medal>619</medal>
+    </response>
+    <response id="52">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>28</level>
+        <pokemon>5000</pokemon>
+        <medal>201</medal>
+    </response>
+    <response id="53">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>10000</pokemon>
+        <medal>758</medal>
+    </response>
+    <response id="54">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>32</level>
+        <pokemon>5000</pokemon>
+        <medal>848</medal>
+    </response>
+    <response id="55">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>34</level>
+        <pokemon>10000</pokemon>
+        <medal>922</medal>
+    </response>
+    <response id="56">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>32</level>
+        <pokemon>2000</pokemon>
+        <medal>741</medal>
+    </response>
+    <response id="57">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>3000</pokemon>
+        <medal>977</medal>
+    </response>
+    <response id="58">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>35</level>
+        <pokemon>3000</pokemon>
+        <medal>1093</medal>
+    </response>
+    <response id="59">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>3000</pokemon>
+        <medal>1200</medal>
+    </response>
+    <response id="60">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>31</level>
+        <pokemon>5000</pokemon>
+        <medal>622</medal>
+    </response>
+    <response id="61">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>5000</pokemon>
+        <medal>440</medal>
+    </response>
+    <response id="62">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>5000</pokemon>
+        <medal>1017</medal>
+    </response>
+    <response id="63">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>34</level>
+        <pokemon>5000</pokemon>
+        <medal>1365</medal>
+    </response>
+    <response id="64">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>2000</pokemon>
+        <medal>620</medal>
+    </response>
+    <response id="65">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>10000</pokemon>
+        <medal>1317</medal>
+    </response>
+    <response id="66">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>5000</pokemon>
+        <medal>907</medal>
+    </response>
+    <response id="67">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>34</level>
+        <pokemon>5000</pokemon>
+        <medal>1932</medal>
+    </response>
+    <response id="68">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>31</level>
+        <pokemon>3000</pokemon>
+        <medal>1210</medal>
+    </response>
+    <response id="69">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>36</level>
+        <pokemon>2000</pokemon>
+        <medal>1564</medal>
+    </response>
+    <response id="70">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>5000</pokemon>
+        <medal>1480</medal>
+    </response>
+    <response id="71">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>10000</pokemon>
+        <medal>842</medal>
+    </response>
+    <response id="72">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>421</medal>
+    </response>
+    <response id="73">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>32</level>
+        <pokemon>5000</pokemon>
+        <medal>1507</medal>
+    </response>
+    <response id="74">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>37</level>
+        <pokemon>10000</pokemon>
+        <medal>1718</medal>
+    </response>
+    <response id="75">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>37</level>
+        <pokemon>3000</pokemon>
+        <medal>1935</medal>
+    </response>
+    <response id="76">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>34</level>
+        <pokemon>10000</pokemon>
+        <medal>1146</medal>
+    </response>
+    <response id="77">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>36</level>
+        <pokemon>3000</pokemon>
+        <medal>1378</medal>
+    </response>
+    <response id="78">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>30</level>
+        <pokemon>3000</pokemon>
+        <medal>700</medal>
+    </response>
+    <response id="79">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>10000</pokemon>
+        <medal>1362</medal>
+    </response>
+    <response id="80">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>3000</pokemon>
+        <medal>1313</medal>
+    </response>
+    <response id="81">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>34</level>
+        <pokemon>3000</pokemon>
+        <medal>2370</medal>
+    </response>
+    <response id="82">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>35</level>
+        <pokemon>5000</pokemon>
+        <medal>1839</medal>
+    </response>
+    <response id="83">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>36</level>
+        <pokemon>5000</pokemon>
+        <medal>1596</medal>
+    </response>
+    <response id="84">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>40</level>
+        <pokemon>10000</pokemon>
+        <medal>2336</medal>
+    </response>
+    <response id="85">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>30</level>
+        <pokemon>3000</pokemon>
+        <medal>1005</medal>
+    </response>
+    <response id="86">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>28</level>
+        <pokemon>5000</pokemon>
+        <medal>1</medal>
+    </response>
+    <response id="87">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>34</level>
+        <pokemon>10000</pokemon>
+        <medal>1233</medal>
+    </response>
+    <response id="88">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>36</level>
+        <pokemon>5000</pokemon>
+        <medal>4390</medal>
+    </response>
+    <response id="89">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>27</level>
+        <pokemon>5000</pokemon>
+        <medal>394</medal>
+    </response>
+    <response id="90">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>35</level>
+        <pokemon>10000</pokemon>
+        <medal>2245</medal>
+    </response>
+    <response id="91">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>32</level>
+        <pokemon>5000</pokemon>
+        <medal>819</medal>
+    </response>
+    <response id="92">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>37</level>
+        <pokemon>10000</pokemon>
+        <medal>1500</medal>
+    </response>
+    <response id="93">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>39</level>
+        <pokemon>10000</pokemon>
+        <medal>1545</medal>
+    </response>
+    <response id="94">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>33</level>
+        <pokemon>5000</pokemon>
+        <medal>792</medal>
+    </response>
+    <response id="95">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>5000</pokemon>
+        <medal>1130</medal>
+    </response>
+    <response id="96">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>10000</pokemon>
+        <medal>1336</medal>
+    </response>
+    <response id="97">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>32</level>
+        <pokemon>10000</pokemon>
+        <medal>1100</medal>
+    </response>
+    <response id="98">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>34</level>
+        <pokemon>2000</pokemon>
+        <medal>1137</medal>
+    </response>
+    <response id="99">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>34</level>
+        <pokemon>10000</pokemon>
+        <medal>1718</medal>
+    </response>
+    <response id="100">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>34</level>
+        <pokemon>10000</pokemon>
+        <medal>20000</medal>
+    </response>
+    <response id="101">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>25</level>
+        <pokemon>10000</pokemon>
+        <medal>161</medal>
+    </response>
+    <response id="102">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>28</level>
+        <pokemon>5000</pokemon>
+        <medal>435</medal>
+    </response>
+    <response id="103">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>34</level>
+        <pokemon>5000</pokemon>
+        <medal>1008</medal>
+    </response>
+    <response id="104">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>20000</pokemon>
+        <medal>800</medal>
+    </response>
+    <response id="105">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>37</level>
+        <pokemon>10000</pokemon>
+        <medal>1575</medal>
+    </response>
+    <response id="106">
+        <month>July</month>
+        <device>Both</device>
+        <team>Valor (Red)</team>
+        <level>34</level>
+        <pokemon>10000</pokemon>
+        <medal>1100</medal>
+    </response>
+    <response id="107">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>25</level>
+        <pokemon>10000</pokemon>
+        <medal>251</medal>
+    </response>
+    <response id="108">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>24</level>
+        <pokemon>5000</pokemon>
+        <medal>121</medal>
+    </response>
+    <response id="109">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>28</level>
+        <pokemon>3000</pokemon>
+        <medal>250</medal>
+    </response>
+    <response id="110">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>25</level>
+        <pokemon>20000</pokemon>
+        <medal>171</medal>
+    </response>
+    <response id="111">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>30</level>
+        <pokemon>5000</pokemon>
+        <medal>273</medal>
+    </response>
+    <response id="112">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>24</level>
+        <pokemon>10000</pokemon>
+        <medal>421</medal>
+    </response>
+    <response id="113">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>25</level>
+        <pokemon>5000</pokemon>
+        <medal>329</medal>
+    </response>
+    <response id="114">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>29</level>
+        <pokemon>10000</pokemon>
+        <medal>369</medal>
+    </response>
+    <response id="115">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>27</level>
+        <pokemon>10000</pokemon>
+        <medal>275</medal>
+    </response>
+    <response id="116">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>3000</pokemon>
+        <medal>585</medal>
+    </response>
+    <response id="117">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>29</level>
+        <pokemon>5000</pokemon>
+        <medal>523</medal>
+    </response>
+    <response id="118">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>30</level>
+        <pokemon>10000</pokemon>
+        <medal>511</medal>
+    </response>
+    <response id="119">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>27</level>
+        <pokemon>10000</pokemon>
+        <medal>341</medal>
+    </response>
+    <response id="120">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>31</level>
+        <pokemon>10000</pokemon>
+        <medal>738</medal>
+    </response>
+    <response id="121">
+        <month>July</month>
+        <device>Android</device>
+        <team>None (White)</team>
+        <level>32</level>
+        <pokemon>5000</pokemon>
+        <medal>925</medal>
+    </response>
+    <response id="122">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>32</level>
+        <pokemon>3000</pokemon>
+        <medal>426</medal>
+    </response>
+    <response id="123">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>3000</pokemon>
+        <medal>949</medal>
+    </response>
+    <response id="124">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>27</level>
+        <pokemon>3000</pokemon>
+        <medal>400</medal>
+    </response>
+    <response id="125">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>32</level>
+        <pokemon>5000</pokemon>
+        <medal>672</medal>
+    </response>
+    <response id="126">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>31</level>
+        <pokemon>20000</pokemon>
+        <medal>348</medal>
+    </response>
+    <response id="127">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>390</medal>
+    </response>
+    <response id="128">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>28</level>
+        <pokemon>10000</pokemon>
+        <medal>268</medal>
+    </response>
+    <response id="129">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>10000</pokemon>
+        <medal>679</medal>
+    </response>
+    <response id="130">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>10000</pokemon>
+        <medal>500</medal>
+    </response>
+    <response id="131">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>32</level>
+        <pokemon>10000</pokemon>
+        <medal>580</medal>
+    </response>
+    <response id="132">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>5000</pokemon>
+        <medal>598</medal>
+    </response>
+    <response id="133">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>5000</pokemon>
+        <medal>613</medal>
+    </response>
+    <response id="134">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>27</level>
+        <pokemon>10000</pokemon>
+        <medal>407</medal>
+    </response>
+    <response id="135">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>31</level>
+        <pokemon>5000</pokemon>
+        <medal>457</medal>
+    </response>
+    <response id="136">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>34</level>
+        <pokemon>5000</pokemon>
+        <medal>1796</medal>
+    </response>
+    <response id="137">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>31</level>
+        <pokemon>20000</pokemon>
+        <medal>494</medal>
+    </response>
+    <response id="138">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>10000</pokemon>
+        <medal>1221</medal>
+    </response>
+    <response id="139">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>34</level>
+        <pokemon>5000</pokemon>
+        <medal>900</medal>
+    </response>
+    <response id="140">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>10000</pokemon>
+        <medal>1369</medal>
+    </response>
+    <response id="141">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>5000</pokemon>
+        <medal>760</medal>
+    </response>
+    <response id="142">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>10000</pokemon>
+        <medal>1690</medal>
+    </response>
+    <response id="143">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>34</level>
+        <pokemon>5000</pokemon>
+        <medal>518</medal>
+    </response>
+    <response id="144">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>10000</pokemon>
+        <medal>380</medal>
+    </response>
+    <response id="145">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>10000</pokemon>
+        <medal>855</medal>
+    </response>
+    <response id="146">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>37</level>
+        <pokemon>10000</pokemon>
+        <medal>1859</medal>
+    </response>
+    <response id="147">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>10000</pokemon>
+        <medal>1151</medal>
+    </response>
+    <response id="148">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>3000</pokemon>
+        <medal>1369</medal>
+    </response>
+    <response id="149">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>33</level>
+        <pokemon>5000</pokemon>
+        <medal>674</medal>
+    </response>
+    <response id="150">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>10000</pokemon>
+        <medal>906</medal>
+    </response>
+    <response id="151">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>35</level>
+        <pokemon>10000</pokemon>
+        <medal>975</medal>
+    </response>
+    <response id="152">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>33</level>
+        <pokemon>10000</pokemon>
+        <medal>2000</medal>
+    </response>
+    <response id="153">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>36</level>
+        <pokemon>10000</pokemon>
+        <medal>1227</medal>
+    </response>
+    <response id="154">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>10000</pokemon>
+        <medal>926</medal>
+    </response>
+    <response id="155">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>35</level>
+        <pokemon>5000</pokemon>
+        <medal>1512</medal>
+    </response>
+    <response id="156">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>10000</pokemon>
+        <medal>876</medal>
+    </response>
+    <response id="157">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>34</level>
+        <pokemon>20000</pokemon>
+        <medal>1641</medal>
+    </response>
+    <response id="158">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>37</level>
+        <pokemon>20000</pokemon>
+        <medal>2000</medal>
+    </response>
+    <response id="159">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>35</level>
+        <pokemon>10000</pokemon>
+        <medal>1140</medal>
+    </response>
+    <response id="160">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>33</level>
+        <pokemon>20000</pokemon>
+        <medal>1030</medal>
+    </response>
+    <response id="161">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>37</level>
+        <pokemon>10000</pokemon>
+        <medal>2950</medal>
+    </response>
+    <response id="162">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>34</level>
+        <pokemon>10000</pokemon>
+        <medal>1621</medal>
+    </response>
+    <response id="163">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>20000</pokemon>
+        <medal>1296</medal>
+    </response>
+    <response id="164">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>36</level>
+        <pokemon>5000</pokemon>
+        <medal>1400</medal>
+    </response>
+    <response id="165">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>10000</pokemon>
+        <medal>304</medal>
+    </response>
+    <response id="166">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>10000</pokemon>
+        <medal>490</medal>
+    </response>
+    <response id="167">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>579</medal>
+    </response>
+    <response id="168">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>35</level>
+        <pokemon>20000</pokemon>
+        <medal>1513</medal>
+    </response>
+    <response id="169">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>31</level>
+        <pokemon>3000</pokemon>
+        <medal>1261</medal>
+    </response>
+    <response id="170">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>10000</pokemon>
+        <medal>898</medal>
+    </response>
+    <response id="171">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>30</level>
+        <pokemon>20001</pokemon>
+        <medal>508</medal>
+    </response>
+    <response id="172">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>38</level>
+        <pokemon>10000</pokemon>
+        <medal>2992</medal>
+    </response>
+    <response id="173">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>1440</medal>
+    </response>
+    <response id="174">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>35</level>
+        <pokemon>10000</pokemon>
+        <medal>2246</medal>
+    </response>
+    <response id="175">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>37</level>
+        <pokemon>10000</pokemon>
+        <medal>2265</medal>
+    </response>
+    <response id="176">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>23</level>
+        <pokemon>10000</pokemon>
+        <medal>56</medal>
+    </response>
+    <response id="177">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>36</level>
+        <pokemon>10000</pokemon>
+        <medal>1300</medal>
+    </response>
+    <response id="178">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>35</level>
+        <pokemon>5000</pokemon>
+        <medal>870</medal>
+    </response>
+    <response id="179">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>10000</pokemon>
+        <medal>693</medal>
+    </response>
+    <response id="180">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>33</level>
+        <pokemon>10000</pokemon>
+        <medal>460</medal>
+    </response>
+    <response id="181">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>35</level>
+        <pokemon>20000</pokemon>
+        <medal>10021</medal>
+    </response>
+    <response id="182">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>29</level>
+        <pokemon>10000</pokemon>
+        <medal>392</medal>
+    </response>
+    <response id="183">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>20000</pokemon>
+        <medal>743</medal>
+    </response>
+    <response id="184">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>33</level>
+        <pokemon>20000</pokemon>
+        <medal>900</medal>
+    </response>
+    <response id="185">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>36</level>
+        <pokemon>20000</pokemon>
+        <medal>1498</medal>
+    </response>
+    <response id="186">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>37</level>
+        <pokemon>20000</pokemon>
+        <medal>1752</medal>
+    </response>
+    <response id="187">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>20000</pokemon>
+        <medal>1340</medal>
+    </response>
+    <response id="188">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>31</level>
+        <pokemon>10000</pokemon>
+        <medal>615</medal>
+    </response>
+    <response id="189">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>1161</medal>
+    </response>
+    <response id="190">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>39</level>
+        <pokemon>20000</pokemon>
+        <medal>3844</medal>
+    </response>
+    <response id="191">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>36</level>
+        <pokemon>20000</pokemon>
+        <medal>1367</medal>
+    </response>
+    <response id="192">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>20000</pokemon>
+        <medal>536</medal>
+    </response>
+    <response id="193">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>10000</pokemon>
+        <medal>1230</medal>
+    </response>
+    <response id="194">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>33</level>
+        <pokemon>10000</pokemon>
+        <medal>1070</medal>
+    </response>
+    <response id="195">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>30</level>
+        <pokemon>5000</pokemon>
+        <medal>866</medal>
+    </response>
+    <response id="196">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>37</level>
+        <pokemon>10000</pokemon>
+        <medal>1681</medal>
+    </response>
+    <response id="197">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>37</level>
+        <pokemon>20000</pokemon>
+        <medal>4115</medal>
+    </response>
+    <response id="198">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>34</level>
+        <pokemon>20000</pokemon>
+        <medal>1335</medal>
+    </response>
+    <response id="199">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>33</level>
+        <pokemon>3000</pokemon>
+        <medal>1233</medal>
+    </response>
+    <response id="200">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>20</level>
+        <pokemon>10000</pokemon>
+        <medal>50</medal>
+    </response>
+    <response id="201">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>20000</pokemon>
+        <medal>2303</medal>
+    </response>
+    <response id="202">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>10000</pokemon>
+        <medal>822</medal>
+    </response>
+    <response id="203">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>36</level>
+        <pokemon>20000</pokemon>
+        <medal>2370</medal>
+    </response>
+    <response id="204">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>40</level>
+        <pokemon>10000</pokemon>
+        <medal>2482</medal>
+    </response>
+    <response id="205">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>34</level>
+        <pokemon>10000</pokemon>
+        <medal>1230</medal>
+    </response>
+    <response id="206">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>28</level>
+        <pokemon>20000</pokemon>
+        <medal>508</medal>
+    </response>
+    <response id="207">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>29</level>
+        <pokemon>5000</pokemon>
+        <medal>190</medal>
+    </response>
+    <response id="208">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>27</level>
+        <pokemon>10000</pokemon>
+        <medal>251</medal>
+    </response>
+    <response id="209">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>20000</pokemon>
+        <medal>610</medal>
+    </response>
+    <response id="210">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>34</level>
+        <pokemon>10000</pokemon>
+        <medal>1584</medal>
+    </response>
+    <response id="211">
+        <month>July</month>
+        <device>Both</device>
+        <team>Valor (Red)</team>
+        <level>36</level>
+        <pokemon>10000</pokemon>
+        <medal>1500</medal>
+    </response>
+    <response id="212">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>31</level>
+        <pokemon>10000</pokemon>
+        <medal>859</medal>
+    </response>
+    <response id="213">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>1678</medal>
+    </response>
+    <response id="214">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>31</level>
+        <pokemon>20000</pokemon>
+        <medal>715</medal>
+    </response>
+    <response id="215">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>10000</pokemon>
+        <medal>1065</medal>
+    </response>
+    <response id="216">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>37</level>
+        <pokemon>20000</pokemon>
+        <medal>2463</medal>
+    </response>
+    <response id="217">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>20000</pokemon>
+        <medal>1616</medal>
+    </response>
+    <response id="218">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>20000</pokemon>
+        <medal>2053</medal>
+    </response>
+    <response id="219">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>38</level>
+        <pokemon>20000</pokemon>
+        <medal>1130</medal>
+    </response>
+    <response id="220">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>36</level>
+        <pokemon>10000</pokemon>
+        <medal>1885</medal>
+    </response>
+    <response id="221">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>10000</pokemon>
+        <medal>2737</medal>
+    </response>
+    <response id="222">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>36</level>
+        <pokemon>20000</pokemon>
+        <medal>2573</medal>
+    </response>
+    <response id="223">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>35</level>
+        <pokemon>20001</pokemon>
+        <medal>1935</medal>
+    </response>
+    <response id="224">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>36</level>
+        <pokemon>20000</pokemon>
+        <medal>1468</medal>
+    </response>
+    <response id="225">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>38</level>
+        <pokemon>10000</pokemon>
+        <medal>3752</medal>
+    </response>
+    <response id="226">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>36</level>
+        <pokemon>20000</pokemon>
+        <medal>2666</medal>
+    </response>
+    <response id="227">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>39</level>
+        <pokemon>20000</pokemon>
+        <medal>2544</medal>
+    </response>
+    <response id="228">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>20000</pokemon>
+        <medal>1630</medal>
+    </response>
+    <response id="229">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>20000</pokemon>
+        <medal>918</medal>
+    </response>
+    <response id="230">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>38</level>
+        <pokemon>10000</pokemon>
+        <medal>3752</medal>
+    </response>
+    <response id="231">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>38</level>
+        <pokemon>20000</pokemon>
+        <medal>3883</medal>
+    </response>
+    <response id="232">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>28</level>
+        <pokemon>10000</pokemon>
+        <medal>442</medal>
+    </response>
+    <response id="233">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>29</level>
+        <pokemon>20001</pokemon>
+        <medal>618</medal>
+    </response>
+    <response id="234">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>2000</pokemon>
+        <medal>1365</medal>
+    </response>
+    <response id="235">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>10000</pokemon>
+        <medal>1559</medal>
+    </response>
+    <response id="236">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>34</level>
+        <pokemon>20000</pokemon>
+        <medal>1900</medal>
+    </response>
+    <response id="237">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>34</level>
+        <pokemon>20000</pokemon>
+        <medal>1580</medal>
+    </response>
+    <response id="238">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>20000</pokemon>
+        <medal>2279</medal>
+    </response>
+    <response id="239">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>20000</pokemon>
+        <medal>1710</medal>
+    </response>
+    <response id="240">
+        <month>July</month>
+        <device>Both</device>
+        <team>Valor (Red)</team>
+        <level>35</level>
+        <pokemon>10000</pokemon>
+        <medal>1200</medal>
+    </response>
+    <response id="241">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>34</level>
+        <pokemon>10000</pokemon>
+        <medal>893</medal>
+    </response>
+    <response id="242">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>20001</pokemon>
+        <medal>2412</medal>
+    </response>
+    <response id="243">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>738</medal>
+    </response>
+    <response id="244">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>40</level>
+        <pokemon>20000</pokemon>
+        <medal>2212</medal>
+    </response>
+    <response id="245">
+        <month>July</month>
+        <device>Both</device>
+        <team>Valor (Red)</team>
+        <level>39</level>
+        <pokemon>20001</pokemon>
+        <medal>2044</medal>
+    </response>
+    <response id="246">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>715</medal>
+    </response>
+    <response id="247">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>20001</pokemon>
+        <medal>2365</medal>
+    </response>
+    <response id="248">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>35</level>
+        <pokemon>5000</pokemon>
+        <medal>1934</medal>
+    </response>
+    <response id="249">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>38</level>
+        <pokemon>5000</pokemon>
+        <medal>4481</medal>
+    </response>
+    <response id="250">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>27</level>
+        <pokemon>10000</pokemon>
+        <medal>462</medal>
+    </response>
+    <response id="251">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>30</level>
+        <pokemon>10000</pokemon>
+        <medal>350</medal>
+    </response>
+    <response id="252">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>10000</pokemon>
+        <medal>736</medal>
+    </response>
+    <response id="253">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>10000</pokemon>
+        <medal>276</medal>
+    </response>
+    <response id="254">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>10000</pokemon>
+        <medal>689</medal>
+    </response>
+    <response id="255">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>10000</pokemon>
+        <medal>1134</medal>
+    </response>
+    <response id="256">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>32</level>
+        <pokemon>10000</pokemon>
+        <medal>1528</medal>
+    </response>
+    <response id="257">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>36</level>
+        <pokemon>20000</pokemon>
+        <medal>1900</medal>
+    </response>
+    <response id="258">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>38</level>
+        <pokemon>20000</pokemon>
+        <medal>2001</medal>
+    </response>
+    <response id="259">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>29</level>
+        <pokemon>20000</pokemon>
+        <medal>316</medal>
+    </response>
+    <response id="260">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>10000</pokemon>
+        <medal>377</medal>
+    </response>
+    <response id="261">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>28</level>
+        <pokemon>10000</pokemon>
+        <medal>252</medal>
+    </response>
+    <response id="262">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>33</level>
+        <pokemon>20001</pokemon>
+        <medal>640</medal>
+    </response>
+    <response id="263">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>819</medal>
+    </response>
+    <response id="264">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>34</level>
+        <pokemon>10000</pokemon>
+        <medal>1487</medal>
+    </response>
+    <response id="265">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>6000</medal>
+    </response>
+    <response id="266">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>34</level>
+        <pokemon>10000</pokemon>
+        <medal>1255</medal>
+    </response>
+    <response id="267">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>10000</pokemon>
+        <medal>968</medal>
+    </response>
+    <response id="268">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>36</level>
+        <pokemon>20000</pokemon>
+        <medal>1065</medal>
+    </response>
+    <response id="269">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>37</level>
+        <pokemon>20000</pokemon>
+        <medal>2907</medal>
+    </response>
+    <response id="270">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>35</level>
+        <pokemon>10000</pokemon>
+        <medal>2309</medal>
+    </response>
+    <response id="271">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>37</level>
+        <pokemon>20000</pokemon>
+        <medal>5185</medal>
+    </response>
+    <response id="272">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>10000</pokemon>
+        <medal>834</medal>
+    </response>
+    <response id="273">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>37</level>
+        <pokemon>20000</pokemon>
+        <medal>3026</medal>
+    </response>
+    <response id="274">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>20001</pokemon>
+        <medal>1484</medal>
+    </response>
+    <response id="275">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>20000</pokemon>
+        <medal>1296</medal>
+    </response>
+    <response id="276">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>600</medal>
+    </response>
+    <response id="277">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>31</level>
+        <pokemon>20000</pokemon>
+        <medal>880</medal>
+    </response>
+    <response id="278">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>33</level>
+        <pokemon>20000</pokemon>
+        <medal>678</medal>
+    </response>
+    <response id="279">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>27</level>
+        <pokemon>20000</pokemon>
+        <medal>278</medal>
+    </response>
+    <response id="280">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>28</level>
+        <pokemon>20000</pokemon>
+        <medal>242</medal>
+    </response>
+    <response id="281">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>29</level>
+        <pokemon>10000</pokemon>
+        <medal>255</medal>
+    </response>
+    <response id="282">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>26</level>
+        <pokemon>20001</pokemon>
+        <medal>252</medal>
+    </response>
+    <response id="283">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>25</level>
+        <pokemon>10000</pokemon>
+        <medal>249</medal>
+    </response>
+    <response id="284">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>27</level>
+        <pokemon>10000</pokemon>
+        <medal>163</medal>
+    </response>
+    <response id="285">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>24</level>
+        <pokemon>20000</pokemon>
+        <medal>208</medal>
+    </response>
+    <response id="286">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>27</level>
+        <pokemon>20000</pokemon>
+        <medal>286</medal>
+    </response>
+    <response id="287">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>24</level>
+        <pokemon>10000</pokemon>
+        <medal>107</medal>
+    </response>
+    <response id="288">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>31</level>
+        <pokemon>20001</pokemon>
+        <medal>626</medal>
+    </response>
+    <response id="289">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>20000</pokemon>
+        <medal>1370</medal>
+    </response>
+    <response id="290">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>10000</pokemon>
+        <medal>535</medal>
+    </response>
+    <response id="291">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>29</level>
+        <pokemon>10000</pokemon>
+        <medal>686</medal>
+    </response>
+    <response id="292">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>34</level>
+        <pokemon>20000</pokemon>
+        <medal>1100</medal>
+    </response>
+    <response id="293">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>20000</pokemon>
+        <medal>982</medal>
+    </response>
+    <response id="294">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>33</level>
+        <pokemon>20001</pokemon>
+        <medal>682</medal>
+    </response>
+    <response id="295">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>34</level>
+        <pokemon>20001</pokemon>
+        <medal>1440</medal>
+    </response>
+    <response id="296">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>34</level>
+        <pokemon>20000</pokemon>
+        <medal>800</medal>
+    </response>
+    <response id="297">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>10000</pokemon>
+        <medal>895</medal>
+    </response>
+    <response id="298">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>37</level>
+        <pokemon>10000</pokemon>
+        <medal>1411</medal>
+    </response>
+    <response id="299">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>36</level>
+        <pokemon>10000</pokemon>
+        <medal>1250</medal>
+    </response>
+    <response id="300">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>10000</pokemon>
+        <medal>304</medal>
+    </response>
+    <response id="301">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>38</level>
+        <pokemon>20001</pokemon>
+        <medal>1480</medal>
+    </response>
+    <response id="302">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>36</level>
+        <pokemon>20001</pokemon>
+        <medal>1590</medal>
+    </response>
+    <response id="303">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>25</level>
+        <pokemon>20000</pokemon>
+        <medal>314</medal>
+    </response>
+    <response id="304">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>28</level>
+        <pokemon>20000</pokemon>
+        <medal>274</medal>
+    </response>
+    <response id="305">
+        <month>July</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>27</level>
+        <pokemon>20000</pokemon>
+        <medal>277</medal>
+    </response>
+    <response id="306">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>28</level>
+        <pokemon>20000</pokemon>
+        <medal>622</medal>
+    </response>
+    <response id="307">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>34</level>
+        <pokemon>3000</pokemon>
+        <medal>1299</medal>
+    </response>
+    <response id="308">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>10000</pokemon>
+        <medal>340</medal>
+    </response>
+    <response id="309">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>20000</pokemon>
+        <medal>1460</medal>
+    </response>
+    <response id="310">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>970</medal>
+    </response>
+    <response id="311">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>20001</pokemon>
+        <medal>942</medal>
+    </response>
+    <response id="312">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>529</medal>
+    </response>
+    <response id="313">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>30</level>
+        <pokemon>20001</pokemon>
+        <medal>426</medal>
+    </response>
+    <response id="314">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>33</level>
+        <pokemon>20001</pokemon>
+        <medal>842</medal>
+    </response>
+    <response id="315">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>20001</pokemon>
+        <medal>1118</medal>
+    </response>
+    <response id="316">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>33</level>
+        <pokemon>20000</pokemon>
+        <medal>1256</medal>
+    </response>
+    <response id="317">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>10000</pokemon>
+        <medal>1087</medal>
+    </response>
+    <response id="318">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>35</level>
+        <pokemon>20001</pokemon>
+        <medal>800</medal>
+    </response>
+    <response id="319">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>39</level>
+        <pokemon>20000</pokemon>
+        <medal>2699</medal>
+    </response>
+    <response id="320">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>10000</pokemon>
+        <medal>848</medal>
+    </response>
+    <response id="321">
+        <month>July</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>33</level>
+        <pokemon>20000</pokemon>
+        <medal>1497</medal>
+    </response>
+    <response id="322">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>10000</pokemon>
+        <medal>2050</medal>
+    </response>
+    <response id="323">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>10000</pokemon>
+        <medal>989</medal>
+    </response>
+    <response id="324">
+        <month>July</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>36</level>
+        <pokemon>20000</pokemon>
+        <medal>2000</medal>
+    </response>
+    <response id="325">
+        <month>July</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>20000</pokemon>
+        <medal>3461</medal>
+    </response>
+    <response id="326">
+        <month>August</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>28</level>
+        <pokemon>20000</pokemon>
+        <medal>512</medal>
+    </response>
+    <response id="327">
+        <month>August</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>29</level>
+        <pokemon>20001</pokemon>
+        <medal>364</medal>
+    </response>
+    <response id="328">
+        <month>August</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>33</level>
+        <pokemon>20001</pokemon>
+        <medal>1093</medal>
+    </response>
+    <response id="329">
+        <month>August</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>20000</pokemon>
+        <medal>1879</medal>
+    </response>
+    <response id="330">
+        <month>August</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>36</level>
+        <pokemon>20000</pokemon>
+        <medal>1500</medal>
+    </response>
+    <response id="331">
+        <month>August</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>29</level>
+        <pokemon>20001</pokemon>
+        <medal>326</medal>
+    </response>
+    <response id="332">
+        <month>August</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>806</medal>
+    </response>
+    <response id="333">
+        <month>August</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>34</level>
+        <pokemon>20000</pokemon>
+        <medal>1425</medal>
+    </response>
+    <response id="334">
+        <month>August</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>25</level>
+        <pokemon>20000</pokemon>
+        <medal>182</medal>
+    </response>
+    <response id="335">
+        <month>August</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>20001</pokemon>
+        <medal>1800</medal>
+    </response>
+    <response id="336">
+        <month>August</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>20000</pokemon>
+        <medal>1660</medal>
+    </response>
+    <response id="337">
+        <month>August</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>36</level>
+        <pokemon>20001</pokemon>
+        <medal>987</medal>
+    </response>
+    <response id="338">
+        <month>August</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>39</level>
+        <pokemon>20001</pokemon>
+        <medal>2834</medal>
+    </response>
+    <response id="339">
+        <month>August</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>38</level>
+        <pokemon>20000</pokemon>
+        <medal>2268</medal>
+    </response>
+    <response id="340">
+        <month>August</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>28</level>
+        <pokemon>20000</pokemon>
+        <medal>456</medal>
+    </response>
+    <response id="341">
+        <month>August</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>26</level>
+        <pokemon>20000</pokemon>
+        <medal>303</medal>
+    </response>
+    <response id="342">
+        <month>August</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>26</level>
+        <pokemon>20000</pokemon>
+        <medal>321</medal>
+    </response>
+    <response id="343">
+        <month>August</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>34</level>
+        <pokemon>20001</pokemon>
+        <medal>920</medal>
+    </response>
+    <response id="344">
+        <month>August</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>20000</pokemon>
+        <medal>1383</medal>
+    </response>
+    <response id="345">
+        <month>August</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>34</level>
+        <pokemon>20000</pokemon>
+        <medal>1025</medal>
+    </response>
+    <response id="346">
+        <month>August</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>33</level>
+        <pokemon>20000</pokemon>
+        <medal>1065</medal>
+    </response>
+    <response id="347">
+        <month>August</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>20001</pokemon>
+        <medal>390</medal>
+    </response>
+    <response id="348">
+        <month>August</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>25</level>
+        <pokemon>20001</pokemon>
+        <medal>356</medal>
+    </response>
+    <response id="349">
+        <month>September</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>31</level>
+        <pokemon>20000</pokemon>
+        <medal>927</medal>
+    </response>
+    <response id="350">
+        <month>September</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>27</level>
+        <pokemon>20001</pokemon>
+        <medal>547</medal>
+    </response>
+    <response id="351">
+        <month>September</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>1007</medal>
+    </response>
+    <response id="352">
+        <month>September</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>10000</pokemon>
+        <medal>1393</medal>
+    </response>
+    <response id="353">
+        <month>September</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>23</level>
+        <pokemon>10000</pokemon>
+        <medal>137</medal>
+    </response>
+    <response id="354">
+        <month>September</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>25</level>
+        <pokemon>10000</pokemon>
+        <medal>548</medal>
+    </response>
+    <response id="355">
+        <month>November</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>5000</pokemon>
+        <medal>402</medal>
+    </response>
+    <response id="356">
+        <month>November</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>28</level>
+        <pokemon>10000</pokemon>
+        <medal>566</medal>
+    </response>
+    <response id="357">
+        <month>November</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>27</level>
+        <pokemon>20000</pokemon>
+        <medal>325</medal>
+    </response>
+    <response id="358">
+        <month>December</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>20000</pokemon>
+        <medal>274</medal>
+    </response>
+    <response id="359">
+        <month>December</month>
+        <device>Both</device>
+        <team>Valor (Red)</team>
+        <level>34</level>
+        <pokemon>5000</pokemon>
+        <medal>1682</medal>
+    </response>
+    <response id="360">
+        <month>December</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>914</medal>
+    </response>
+    <response id="361">
+        <month>December</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>3000</pokemon>
+        <medal>1735</medal>
+    </response>
+    <response id="362">
+        <month>December</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>39</level>
+        <pokemon>10000</pokemon>
+        <medal>2980</medal>
+    </response>
+    <response id="363">
+        <month>December</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>10000</pokemon>
+        <medal>1069</medal>
+    </response>
+    <response id="364">
+        <month>January</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>36</level>
+        <pokemon>20000</pokemon>
+        <medal>2021</medal>
+    </response>
+    <response id="365">
+        <month>February</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>40</level>
+        <pokemon>20001</pokemon>
+        <medal>3161</medal>
+    </response>
+    <response id="366">
+        <month>March</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>700</medal>
+    </response>
+    <response id="367">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>20000</pokemon>
+        <medal>1053</medal>
+    </response>
+    <response id="368">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>27</level>
+        <pokemon>20000</pokemon>
+        <medal>231</medal>
+    </response>
+    <response id="369">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>29</level>
+        <pokemon>20001</pokemon>
+        <medal>451</medal>
+    </response>
+    <response id="370">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>29</level>
+        <pokemon>20001</pokemon>
+        <medal>1260</medal>
+    </response>
+    <response id="371">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>20001</pokemon>
+        <medal>1333</medal>
+    </response>
+    <response id="372">
+        <month>May</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>30</level>
+        <pokemon>20001</pokemon>
+        <medal>3000</medal>
+    </response>
+    <response id="373">
+        <month>May</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>34</level>
+        <pokemon>20001</pokemon>
+        <medal>1383</medal>
+    </response>
+    <response id="374">
+        <month>May</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>35</level>
+        <pokemon>20000</pokemon>
+        <medal>1</medal>
+    </response>
+    <response id="375">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>2096</medal>
+    </response>
+    <response id="376">
+        <month>May</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>36</level>
+        <pokemon>10000</pokemon>
+        <medal>1</medal>
+    </response>
+    <response id="377">
+        <month>May</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>33</level>
+        <pokemon>20000</pokemon>
+        <medal>1317</medal>
+    </response>
+    <response id="378">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>20000</pokemon>
+        <medal>1400</medal>
+    </response>
+    <response id="379">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>35</level>
+        <pokemon>20001</pokemon>
+        <medal>1336</medal>
+    </response>
+    <response id="380">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>28</level>
+        <pokemon>20000</pokemon>
+        <medal>461</medal>
+    </response>
+    <response id="381">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>29</level>
+        <pokemon>20001</pokemon>
+        <medal>670</medal>
+    </response>
+    <response id="382">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>10000</pokemon>
+        <medal>1072</medal>
+    </response>
+    <response id="383">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>40</level>
+        <pokemon>10000</pokemon>
+        <medal>2697</medal>
+    </response>
+    <response id="384">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>37</level>
+        <pokemon>20001</pokemon>
+        <medal>4008</medal>
+    </response>
+    <response id="385">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>40</level>
+        <pokemon>20000</pokemon>
+        <medal>3345</medal>
+    </response>
+    <response id="386">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>39</level>
+        <pokemon>20001</pokemon>
+        <medal>3235</medal>
+    </response>
+    <response id="387">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>20001</pokemon>
+        <medal>600</medal>
+    </response>
+    <response id="388">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>10000</pokemon>
+        <medal>2022</medal>
+    </response>
+    <response id="389">
+        <month>May</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>34</level>
+        <pokemon>5000</pokemon>
+        <medal>2398</medal>
+    </response>
+    <response id="390">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>39</level>
+        <pokemon>10000</pokemon>
+        <medal>2662</medal>
+    </response>
+    <response id="391">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>31</level>
+        <pokemon>10000</pokemon>
+        <medal>382</medal>
+    </response>
+    <response id="392">
+        <month>May</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>30</level>
+        <pokemon>20000</pokemon>
+        <medal>371</medal>
+    </response>
+    <response id="393">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>34</level>
+        <pokemon>10000</pokemon>
+        <medal>994</medal>
+    </response>
+    <response id="394">
+        <month>May</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>33</level>
+        <pokemon>3000</pokemon>
+        <medal>1991</medal>
+    </response>
+    <response id="395">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>36</level>
+        <pokemon>20000</pokemon>
+        <medal>1543</medal>
+    </response>
+    <response id="396">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>38</level>
+        <pokemon>10000</pokemon>
+        <medal>1494</medal>
+    </response>
+    <response id="397">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>39</level>
+        <pokemon>5000</pokemon>
+        <medal>4023</medal>
+    </response>
+    <response id="398">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>37</level>
+        <pokemon>10000</pokemon>
+        <medal>2743</medal>
+    </response>
+    <response id="399">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>38</level>
+        <pokemon>20000</pokemon>
+        <medal>2009</medal>
+    </response>
+    <response id="400">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>33</level>
+        <pokemon>20001</pokemon>
+        <medal>1008</medal>
+    </response>
+    <response id="401">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>26</level>
+        <pokemon>10000</pokemon>
+        <medal>318</medal>
+    </response>
+    <response id="402">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>29</level>
+        <pokemon>10000</pokemon>
+        <medal>646</medal>
+    </response>
+    <response id="403">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>20000</pokemon>
+        <medal>1536</medal>
+    </response>
+    <response id="404">
+        <month>May</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>31</level>
+        <pokemon>5000</pokemon>
+        <medal>1136</medal>
+    </response>
+    <response id="405">
+        <month>May</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>33</level>
+        <pokemon>20000</pokemon>
+        <medal>925</medal>
+    </response>
+    <response id="406">
+        <month>May</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>10000</pokemon>
+        <medal>857</medal>
+    </response>
+    <response id="407">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>37</level>
+        <pokemon>10000</pokemon>
+        <medal>1800</medal>
+    </response>
+    <response id="408">
+        <month>May</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>35</level>
+        <pokemon>10000</pokemon>
+        <medal>1800</medal>
+    </response>
+    <response id="409">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>37</level>
+        <pokemon>20001</pokemon>
+        <medal>1664</medal>
+    </response>
+    <response id="410">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>20001</pokemon>
+        <medal>914</medal>
+    </response>
+    <response id="411">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>27</level>
+        <pokemon>20000</pokemon>
+        <medal>308</medal>
+    </response>
+    <response id="412">
+        <month>May</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>31</level>
+        <pokemon>20000</pokemon>
+        <medal>624</medal>
+    </response>
+    <response id="413">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>29</level>
+        <pokemon>20001</pokemon>
+        <medal>597</medal>
+    </response>
+    <response id="414">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>37</level>
+        <pokemon>20001</pokemon>
+        <medal>1589</medal>
+    </response>
+    <response id="415">
+        <month>May</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>36</level>
+        <pokemon>10000</pokemon>
+        <medal>3074</medal>
+    </response>
+    <response id="416">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>29</level>
+        <pokemon>20000</pokemon>
+        <medal>516</medal>
+    </response>
+    <response id="417">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>34</level>
+        <pokemon>20000</pokemon>
+        <medal>1624</medal>
+    </response>
+    <response id="418">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>36</level>
+        <pokemon>20000</pokemon>
+        <medal>1743</medal>
+    </response>
+    <response id="419">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>20001</pokemon>
+        <medal>1659</medal>
+    </response>
+    <response id="420">
+        <month>May</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>40</level>
+        <pokemon>10000</pokemon>
+        <medal>3720</medal>
+    </response>
+    <response id="421">
+        <month>May</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>30</level>
+        <pokemon>20000</pokemon>
+        <medal>700</medal>
+    </response>
+    <response id="422">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>28</level>
+        <pokemon>10000</pokemon>
+        <medal>505</medal>
+    </response>
+    <response id="423">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>30</level>
+        <pokemon>20001</pokemon>
+        <medal>1006</medal>
+    </response>
+    <response id="424">
+        <month>May</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>35</level>
+        <pokemon>2000</pokemon>
+        <medal>1261</medal>
+    </response>
+    <response id="425">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>34</level>
+        <pokemon>3000</pokemon>
+        <medal>885</medal>
+    </response>
+    <response id="426">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>34</level>
+        <pokemon>10000</pokemon>
+        <medal>1291</medal>
+    </response>
+    <response id="427">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Instinct (Yellow)</team>
+        <level>26</level>
+        <pokemon>20001</pokemon>
+        <medal>149</medal>
+    </response>
+    <response id="428">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>32</level>
+        <pokemon>20001</pokemon>
+        <medal>638</medal>
+    </response>
+    <response id="429">
+        <month>May</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>33</level>
+        <pokemon>20000</pokemon>
+        <medal>868</medal>
+    </response>
+    <response id="430">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>38</level>
+        <pokemon>20000</pokemon>
+        <medal>1768</medal>
+    </response>
+    <response id="431">
+        <month>May</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>34</level>
+        <pokemon>20001</pokemon>
+        <medal>1461</medal>
+    </response>
+    <response id="432">
+        <month>May</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>38</level>
+        <pokemon>20001</pokemon>
+        <medal>3286</medal>
+    </response>
+    <response id="433">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>27</level>
+        <pokemon>20001</pokemon>
+        <medal>356</medal>
+    </response>
+    <response id="434">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Valor (Red)</team>
+        <level>27</level>
+        <pokemon>20001</pokemon>
+        <medal>356</medal>
+    </response>
+    <response id="435">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>37</level>
+        <pokemon>10000</pokemon>
+        <medal>3646</medal>
+    </response>
+    <response id="436">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>21</level>
+        <pokemon>10000</pokemon>
+        <medal>30</medal>
+    </response>
+    <response id="437">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>20001</pokemon>
+        <medal>1280</medal>
+    </response>
+    <response id="438">
+        <month>May</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>20000</pokemon>
+        <medal>723</medal>
+    </response>
+    <response id="439">
+        <month>May</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>33</level>
+        <pokemon>20000</pokemon>
+        <medal>720</medal>
+    </response>
+    <response id="440">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>20001</pokemon>
+        <medal>1197</medal>
+    </response>
+    <response id="441">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>33</level>
+        <pokemon>20001</pokemon>
+        <medal>1166</medal>
+    </response>
+    <response id="442">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>39</level>
+        <pokemon>20000</pokemon>
+        <medal>2207</medal>
+    </response>
+    <response id="443">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>20001</pokemon>
+        <medal>1290</medal>
+    </response>
+    <response id="444">
+        <month>May</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>31</level>
+        <pokemon>20000</pokemon>
+        <medal>1096</medal>
+    </response>
+    <response id="445">
+        <month>May</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>37</level>
+        <pokemon>20000</pokemon>
+        <medal>2222</medal>
+    </response>
+    <response id="446">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>29</level>
+        <pokemon>20001</pokemon>
+        <medal>382</medal>
+    </response>
+    <response id="447">
+        <month>May</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>39</level>
+        <pokemon>10000</pokemon>
+        <medal>2088</medal>
+    </response>
+    <response id="448">
+        <month>May</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>28</level>
+        <pokemon>5000</pokemon>
+        <medal>342</medal>
+    </response>
+    <response id="449">
+        <month>May</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>33</level>
+        <pokemon>20000</pokemon>
+        <medal>1087</medal>
+    </response>
+    <response id="450">
+        <month>May</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>34</level>
+        <pokemon>20000</pokemon>
+        <medal>1332</medal>
+    </response>
+    <response id="451">
+        <month>May</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>33</level>
+        <pokemon>2000</pokemon>
+        <medal>701</medal>
+    </response>
+    <response id="452">
+        <month>May</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>32</level>
+        <pokemon>5000</pokemon>
+        <medal>619</medal>
+    </response>
+    <response id="453">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>35</level>
+        <pokemon>5000</pokemon>
+        <medal>1355</medal>
+    </response>
+    <response id="454">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>36</level>
+        <pokemon>10000</pokemon>
+        <medal>2174</medal>
+    </response>
+    <response id="455">
+        <month>May</month>
+        <device>Android</device>
+        <team>Instinct (Yellow)</team>
+        <level>34</level>
+        <pokemon>20001</pokemon>
+        <medal>1640</medal>
+    </response>
+    <response id="456">
+        <month>May</month>
+        <device>iOS</device>
+        <team>Mystic (Blue)</team>
+        <level>28</level>
+        <pokemon>10000</pokemon>
+        <medal>668</medal>
+    </response>
+    <response id="457">
+        <month>May</month>
+        <device>Android</device>
+        <team>Mystic (Blue)</team>
+        <level>34</level>
+        <pokemon>20000</pokemon>
+        <medal>1772</medal>
+    </response>
+    <response id="458">
+        <month>May</month>
+        <device>Android</device>
+        <team>Valor (Red)</team>
+        <level>36</level>
+        <pokemon>1000</pokemon>
+        <medal>1500</medal>
+    </response>
+</survey>
